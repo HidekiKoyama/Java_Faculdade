@@ -23,7 +23,8 @@
 <h5> Desafios </h5><br>
 
 <h4> Desafio1: Implementar a classe Eq2Grau / Proj_Eq2Grau capacitando-a a manipular raízes complexas. </h4> <br>
-´´´	
+
+
     public void calcularX1() {
         if (delta < 0) {
             double newDelta = (delta * -1);
@@ -44,10 +45,11 @@
         }
     }
 
-´´´
+
 <br>
 <h4> Desafio2: Implementar a classe Eq2Grau / Proj_Eq2Grau capacitando-a para resolver o mesmo problema, porém sem o atributo delta. </h4> <br>
-´´´
+
+
     public void calcularX1NoDelta() {
         if ((b * b - 4 * a * c) < 0) {
             x1 = (-b + Math.sqrt((b * b - 4 * a * c) * -1)) / (2 * a);
@@ -66,6 +68,6 @@
         }
     }
 
-´´´	
+<br>
 <h4> Desafio 3: Por qual motivo não foi implementado métodos “sets” para os atributos delta, x1 e x2? </h4> <br>
 <p> Porque esses atributos são calculados dentro da classe Eq2Grau e não são incluídos pelo usuário. Garantindo o encapsulamento </p> <br>
