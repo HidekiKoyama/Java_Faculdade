@@ -1,4 +1,3 @@
-## Responda as questões abaixo com base nessa aula.
 <h2> Questões </h2><br>
 
 <h4> 1) Quais os valores de saída se atribuirmos a=1, b= - 13 e c=40? </h4> 
