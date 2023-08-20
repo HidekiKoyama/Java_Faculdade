@@ -1,5 +1,5 @@
 ## Responda as questões abaixo com base nessa aula.
-<h5> Questões </h5><br>
+<h2> Questões </h2><br>
 
 <h4> 1) Quais os valores de saída se atribuirmos a=1, b= - 13 e c=40? </h4> 
 <p>x1= 8.0 // x2= 5.0</p> <br>
@@ -20,7 +20,7 @@
 <h4> 9) Quais os métodos da classe Eq2Grau que foram utilizados nesta aula? </h4>
 <p> setA(), setB(), setC(), calcularDelta(), calcularX1(), calcularX2(), getX1(), getX2() </p> <br>
  
-<h5> Desafios </h5><br>
+<h2> Desafios </h2><br>
 
 <h4> Desafio1: Implementar a classe Eq2Grau / Proj_Eq2Grau capacitando-a a manipular raízes complexas. </h4> <br>
 
