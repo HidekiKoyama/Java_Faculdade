@@ -15,7 +15,7 @@
 ## Aula 2 - 21/02/2024
 <h3>Projetinho 2 & 3</h3>
 <p align="center">
-    <h3 align="center"> Implementar uma classe que seja capaz de mostrar na tela, porém sem utilizar POO e utilizando POO. </h3>    
+    <h3 align="center"> Implementar uma classe que seja capaz de mostrar na tela mensagens/alertas, porém utilizando POO e sem utilizar POO. </h3>    
 </p>
 <p> Atividade 02 - Sem OO- Professor Eduardo Chagas <a href="Faculdade_Java/Atividades/Atividade - Aula 2/ProjMensagemSemOO"> Clique aqui </a></p>
 <p> Atividade 03 - Com OO- Professor Eduardo Chagas <a href="Faculdade_Java/Atividades/Atividade - Aula 2/ProjMensagemComOO"> Clique aqui </a></p>
