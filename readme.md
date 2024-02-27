@@ -31,3 +31,15 @@
 <br>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------->
+## Aula 3 - 27/02/2024
+<h3>Projeto 4 - Aluno da POO</h3>
+
+> [!IMPORTANT]
+> <h4> Projeto deve ler e armazena a nota de um aluno (2 notas) e exibe sua media e informa se o aluno está aprovado! (media >= 5) ou aprovado! </h4>
+
+- [x] Atividade 04 - Media Aluno- Professor Eduardo Chagas <a href="Faculdade_Java/Atividades/Atividade - Aula 3/ProjMediaAlunosOO"> Clique aqui </a>
+
+<br>
+
+
+
